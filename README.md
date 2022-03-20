@@ -3,11 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Saurav, a full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
-
 ### About Me
-- 💼 Full-stack Web Developer at [Medzgo](https://www.medzgo.com/).
+- 💼 Hi, I'm Saurav, a Full-Stack Web Developer at [Medzgo](https://www.medzgo.com/).
 
 - 💻  2 years of experience with MERN stack, from conceptualization to making of full-fledged web projects.
 
@@ -71,8 +68,8 @@
 <a href="https://linkedin.com/in/sauravkrx" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/oyeesaurav" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<!-- <a href="https://instagram.com/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> -->
 </a> 
 </div>  
 
