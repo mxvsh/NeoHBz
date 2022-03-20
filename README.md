@@ -80,7 +80,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohbz&hide=glsl&theme=vue&layout=compact" width=250 height=120>
 </div>
  
-
+<br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=NeoHBz&&style=flat-square) <a href="https://www.buymeacoffee.com/NeoHBz" target="_blank" style="display: inline-block;">
     <img
